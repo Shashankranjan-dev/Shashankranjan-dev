@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on [My Portfolio]https://shashankranjan-dev.onrender.com/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m  **MERN Stack** & **MEAN Stack**
 
 - 👯 I’m looking to collaborate on [College Website](https://github.com/shashankranjan-dev/college-website)
 
-- 🤝 I’m looking for help with [My Portfolio](https://github.com/shashankranjan-dev/shashankranjan-dev.github.io)
+- 🤝 I’m looking for help with [My Portfolio](https://shashankranjan-dev.onrender.com/)
 
-- 👨‍💻 All of my projects are available at [https://shashankranjan-dev.onrender.com/](https://shashankranjan-dev.onrender.com/
+- 👨‍💻 All of my projects are available at https://shashankranjan-dev.onrender.com/ (https://shashankranjan-dev.onrender.com/
 
 - 📝 I regularly write articles on [https://bluebyheart.com/](https://bluebyheart.com/)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Full Stack Web Developer**
 
 - 📫 How to reach me **shashankranjan970832@gmail.com**
 
