@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankranjan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shashankranjan-dev" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/shashankranjan-dev/shashankranjan-dev.github.io)
+- 🔭 I’m currently working on [My Portfolio]https://shashankranjan-dev.onrender.com/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [My Portfolio](https://github.com/shashankranjan-dev/shashankranjan-dev.github.io)
 
-- 👨‍💻 All of my projects are available at [https://shashankranjan-dev.github.io/](https://shashankranjan-dev.github.io/)
+- 👨‍💻 All of my projects are available at [https://shashankranjan-dev.onrender.com/](https://shashankranjan-dev.onrender.com/
 
 - 📝 I regularly write articles on [https://bluebyheart.com/](https://bluebyheart.com/)
 
