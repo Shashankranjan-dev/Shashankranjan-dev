@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankranjan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shashankranjan-dev" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio]https://shashankranjan-dev.onrender.com/)
+- 🔭 I’m currently working on [My Portfolio]https://shashankranjan.vercel.app/)
 
 - 🌱 I’m  **MERN Stack** & **MEAN Stack**
 
 - 👯 I’m looking to collaborate on [College Website](https://github.com/shashankranjan-dev/college-website)
 
-- 🤝 I’m looking for help with [My Portfolio](https://shashankranjan-dev.onrender.com/)
+- 🤝 I’m looking for help with [My Portfolio](https://shashankranjan.vercel.app/)
 
-- 👨‍💻 All of my projects are available at https://shashankranjan-dev.onrender.com/ (https://shashankranjan-dev.onrender.com/
+- 👨‍💻 All of my projects are available at (https://shashankranjan.vercel.app/) 
 
 - 📝 I regularly write articles on [https://bluebyheart.com/](https://bluebyheart.com/)
 
