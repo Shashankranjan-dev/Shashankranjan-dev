@@ -1,21 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shashank Ranjan</h1>
 <h3 align="center">A passionate frontend developer from India, Learning MERN Stack and Looking for opportunities</h3>
+![Shashank Ranjan Banner](https://github.com/shashankranjan-dev/shashankranjan-dev/assets/70715947/1154a562-9056-4356-af5b-1ab4157c2176)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankranjan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shashankranjan-dev" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio]https://shashankranjan.vercel.app/)
-
-- 🌱 I’m  **MERN Stack** & **MEAN Stack**
-
-- 👯 I’m looking to collaborate on [College Website](https://github.com/shashankranjan-dev/college-website)
-
-- 🤝 I’m looking for help with [My Portfolio](https://shashankranjan.vercel.app/)
-
-- 👨‍💻 All of my projects are available at (https://shashankranjan.vercel.app/) 
-
-- 📝 I regularly write articles on [https://bluebyheart.com/](https://bluebyheart.com/)
-
-- 💬 Ask me about **Full Stack Web Developer**
 
 - 📫 How to reach me **shashankranjan970832@gmail.com**
 
