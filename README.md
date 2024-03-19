@@ -5,7 +5,7 @@
 
 
 
-![Shashank Ranjan Banner]
+
 ![Neutral Creative Professional LinkedIn Article Cover Image](https://github.com/shashankranjan-dev/shashankranjan-dev/assets/70715947/86b554ef-c6ac-45bd-b708-732cc970e0b1)
 
 
