@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shashank Ranjan</h1>
 <h3 align="center">A passionate frontend developer from India, Learning MERN Stack and Looking for opportunities</h3>
 
-![Shashank Ranjan Banner](https://github.com/shashankranjan-dev/shashankranjan-dev/assets/70715947/1154a562-9056-4356-af5b-1ab4157c2176)
+
+
+
+![Neutral Creative Professional LinkedIn Article Cover Image (1)](https://github.com/shashankranjan-dev/shashankranjan-dev/assets/70715947/7e86d7f5-ec26-47fb-b28a-ab4f183a6fab)
+
+![Shashank Ranjan Banner]
 
 
 
