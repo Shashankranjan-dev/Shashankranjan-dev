@@ -30,4 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankranjan-dev&show_icons=true&locale=en" alt="shashankranjan-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankranjan-dev&" alt="shashankranjan-dev-stats" /></p>
+  <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=shashankranjan-dev&"
+        alt="shashankranjan-dev-stats"
+        className="rounded-lg"
+      />
